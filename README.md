@@ -1,4 +1,5 @@
-gitignore
+Adding gitignore
+
 booya
 
  "Whatever the mind can conceive and believe, the mind can achieve"
